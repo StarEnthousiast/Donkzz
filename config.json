@@ -8,9 +8,6 @@
       "command": "hunt",
       "cooldown": 40000
     },
-    { "command": "giveaway view",
-      "cooldown": 30000
-    },
     {
       "command": "search",
       "cooldown": 30000
